@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "127260590266"
+  store: nuckdev-test.myshopify.com
+  ignore_files: 
+    - config/settings_data.json
