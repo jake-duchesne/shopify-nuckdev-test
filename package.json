@@ -1,0 +1,9 @@
+{
+  "name": "dawn",
+  "version": "1.0.0",
+  "description": "Template",
+  "scripts": {
+    "watch": "theme watch",
+    "deploy": "theme deploy"
+  }
+}
