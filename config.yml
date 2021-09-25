@@ -1,6 +1,6 @@
 development:
   password: ${DEV_PASS}
   theme_id: ${DEV_THEME_ID}
-  store: ${DEV_STORE}
+  store: ${DEV_SHOP}
   ignore_files: 
     - config/settings_data.json
